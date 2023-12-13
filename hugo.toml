@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://yangjh-xbmu.github.io/newsite/'
 languageCode = 'en-us'
 publishDir = "docs"
 theme = 'ananke'
